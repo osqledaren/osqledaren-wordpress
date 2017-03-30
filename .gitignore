@@ -1,8 +1,8 @@
 *
 !*/
 !.gitignore
-!*/wp-content/
-!*/wp-content/*
+!wp-content/themes/**
+!wp-content/plugins/**
 *.DS_Store
 *.idea
 
