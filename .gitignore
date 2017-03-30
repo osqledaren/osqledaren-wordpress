@@ -3,6 +3,7 @@
 !.gitignore
 !*/wp-content/
 !*/wp-content/*
+!*/wp-content/**/*
 *.DS_Store
 *.idea
 
