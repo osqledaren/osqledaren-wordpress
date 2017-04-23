@@ -193,12 +193,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/tedyw/wp-oauth2-cookie.git",
-                "reference": "20330fe06de12976b764ad67bb1b00b8f89fa339"
+                "reference": "2da9783fc8bab002989466ebfa3465536de6ee6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tedyw/wp-oauth2-cookie/zipball/20330fe06de12976b764ad67bb1b00b8f89fa339",
-                "reference": "20330fe06de12976b764ad67bb1b00b8f89fa339",
+                "url": "https://api.github.com/repos/tedyw/wp-oauth2-cookie/zipball/2da9783fc8bab002989466ebfa3465536de6ee6f",
+                "reference": "2da9783fc8bab002989466ebfa3465536de6ee6f",
                 "shasum": ""
             },
             "require": {
@@ -210,7 +210,7 @@
                 "source": "https://github.com/tedyw/wp-oauth2-cookie/tree/master",
                 "issues": "https://github.com/tedyw/wp-oauth2-cookie/issues"
             },
-            "time": "2017-04-23 17:53:38"
+            "time": "2017-04-23 21:42:24"
         },
         {
             "name": "wpackagist-plugin/acf-to-rest-api",
