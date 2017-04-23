@@ -119,12 +119,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend.git",
-                "reference": "6f971d3c64b5992d4ea7f1c23ef2ce863fcb1919"
+                "reference": "0c2c9ebb7282ad0c400f8fb2c30350c3213e22b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/osqledaren/osqledaren-wordpress-angular2-frontend/zipball/6f971d3c64b5992d4ea7f1c23ef2ce863fcb1919",
-                "reference": "6f971d3c64b5992d4ea7f1c23ef2ce863fcb1919",
+                "url": "https://api.github.com/repos/osqledaren/osqledaren-wordpress-angular2-frontend/zipball/0c2c9ebb7282ad0c400f8fb2c30350c3213e22b2",
+                "reference": "0c2c9ebb7282ad0c400f8fb2c30350c3213e22b2",
                 "shasum": ""
             },
             "require": {
@@ -136,7 +136,7 @@
                 "source": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend/tree/master",
                 "issues": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend/issues"
             },
-            "time": "2017-04-23 18:56:48"
+            "time": "2017-04-23 22:57:56"
         },
         {
             "name": "tedyw/wp-api-archive",
