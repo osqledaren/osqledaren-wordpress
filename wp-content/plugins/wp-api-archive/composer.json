@@ -1,8 +1,0 @@
-{
-  "name": "tedyw/wp-api-archive",
-  "description": "Lists archives in rest api",
-  "type": "wordpress-plugin",
-  "require": {
-    "composer/installers": "~1.0"
-  }
-}
