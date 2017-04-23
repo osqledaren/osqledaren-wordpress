@@ -1,0 +1,229 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6e9e69359229076c3329ef105504bed9",
+    "packages": [
+        {
+            "name": "composer/installers",
+            "version": "v1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/composer/installers.git",
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/composer/installers/zipball/d78064c68299743e0161004f2de3a0204e33b804",
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0"
+            },
+            "replace": {
+                "roundcube/plugin-installer": "*",
+                "shama/baton": "*"
+            },
+            "require-dev": {
+                "composer/composer": "1.0.*@dev",
+                "phpunit/phpunit": "4.1.*"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Composer\\Installers\\Plugin",
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Robinson Young",
+                    "email": "kyle@dontkry.com",
+                    "homepage": "https://github.com/shama"
+                }
+            ],
+            "description": "A multi-framework Composer library installer",
+            "homepage": "https://composer.github.io/installers/",
+            "keywords": [
+                "Craft",
+                "Dolibarr",
+                "Hurad",
+                "ImageCMS",
+                "MODX Evo",
+                "Mautic",
+                "OXID",
+                "Plentymarkets",
+                "RadPHP",
+                "SMF",
+                "Thelia",
+                "WolfCMS",
+                "agl",
+                "aimeos",
+                "annotatecms",
+                "attogram",
+                "bitrix",
+                "cakephp",
+                "chef",
+                "cockpit",
+                "codeigniter",
+                "concrete5",
+                "croogo",
+                "dokuwiki",
+                "drupal",
+                "elgg",
+                "expressionengine",
+                "fuelphp",
+                "grav",
+                "installer",
+                "joomla",
+                "kohana",
+                "laravel",
+                "lithium",
+                "magento",
+                "mako",
+                "mediawiki",
+                "modulework",
+                "moodle",
+                "phpbb",
+                "piwik",
+                "ppi",
+                "puppet",
+                "reindex",
+                "roundcube",
+                "shopware",
+                "silverstripe",
+                "symfony",
+                "typo3",
+                "wordpress",
+                "yawik",
+                "zend",
+                "zikula"
+            ],
+            "time": "2016-08-13T20:53:52+00:00"
+        },
+        {
+            "name": "osqledaren/osqledaren-wordpress-angular2-frontend",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend.git",
+                "reference": "082caa6c6ba5d9667be812441a7df6c020200c4b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/osqledaren/osqledaren-wordpress-angular2-frontend/zipball/082caa6c6ba5d9667be812441a7df6c020200c4b",
+                "reference": "082caa6c6ba5d9667be812441a7df6c020200c4b",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "description": "Disables wordpress public frontend.",
+            "support": {
+                "source": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend/tree/master",
+                "issues": "https://github.com/osqledaren/osqledaren-wordpress-angular2-frontend/issues"
+            },
+            "time": "2017-04-23 17:52:40"
+        },
+        {
+            "name": "tedyw/wp-api-archive",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tedyw/wp-api-archive.git",
+                "reference": "e54f5ca0c201f64d2ef3ccc23d8365557161b8b8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tedyw/wp-api-archive/zipball/e54f5ca0c201f64d2ef3ccc23d8365557161b8b8",
+                "reference": "e54f5ca0c201f64d2ef3ccc23d8365557161b8b8",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "description": "Lists archives in rest api",
+            "support": {
+                "source": "https://github.com/tedyw/wp-api-archive/tree/master",
+                "issues": "https://github.com/tedyw/wp-api-archive/issues"
+            },
+            "time": "2017-04-23 17:52:58"
+        },
+        {
+            "name": "tedyw/wp-api-rest-filter",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tedyw/wp-api-rest-filter.git",
+                "reference": "ead5969cb6b9fa86686a456ad6881b8615322ba8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tedyw/wp-api-rest-filter/zipball/ead5969cb6b9fa86686a456ad6881b8615322ba8",
+                "reference": "ead5969cb6b9fa86686a456ad6881b8615322ba8",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "description": "Restores wordpress filter argument in rest api.",
+            "support": {
+                "source": "https://github.com/tedyw/wp-api-rest-filter/tree/master"
+            },
+            "time": "2017-04-23 17:53:24"
+        },
+        {
+            "name": "tedyw/wp-oauth2-cookie",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tedyw/wp-oauth2-cookie.git",
+                "reference": "20330fe06de12976b764ad67bb1b00b8f89fa339"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tedyw/wp-oauth2-cookie/zipball/20330fe06de12976b764ad67bb1b00b8f89fa339",
+                "reference": "20330fe06de12976b764ad67bb1b00b8f89fa339",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "description": "Retrieves oauth2 access token on wordpress logon.",
+            "support": {
+                "source": "https://github.com/tedyw/wp-oauth2-cookie/tree/master",
+                "issues": "https://github.com/tedyw/wp-oauth2-cookie/issues"
+            },
+            "time": "2017-04-23 17:53:38"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tedyw/wp-api-archive": 20,
+        "tedyw/wp-api-rest-filter": 20,
+        "tedyw/wp-oauth2-cookie": 20,
+        "osqledaren/osqledaren-wordpress-angular2-frontend": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,26 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git://github.com/tedyw/wp-api-archive.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/tedyw/wp-api-rest-filter.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/tedyw/wp-oauth2-cookie.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/osqledaren/osqledaren-wordpress-angular2-frontend"
+    }
+  ],
+  "require": {
+    "tedyw/wp-api-archive": "dev-master",
+    "tedyw/wp-api-rest-filter": "dev-master",
+    "tedyw/wp-oauth2-cookie": "dev-master",
+    "osqledaren/osqledaren-wordpress-angular2-frontend": "dev-master"
+  }
+}
