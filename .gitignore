@@ -3,9 +3,6 @@
 !.gitignore
 !composer.json
 !composer.lock
-*.DS_Store
-*.idea
-.idea
 # Created by https://www.gitignore.io/api/composer
 
 ### Composer ###
